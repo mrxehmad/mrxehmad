@@ -31,14 +31,6 @@ src="https://img.shields.io/github/followers/JohnHammond?logo=github&style=for-t
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
----
-
-<p align="center">
-
-[![mrxehmad's GitHub | Stats](https://stats.quine.sh/mrxehmad/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=mrxehmad)
-
-</p>
-
 ----
 
 <b>My GitHub Stats</b>
