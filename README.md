@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="http://www.github.com/mrxehmad">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrxehmad" alt="mrxehmad's GitHub stats" />
+    <img src="https://sub-3mm.pages.dev/stats.svg" alt="mrxehmad's GitHub stats" />
   </a>
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="200" align="right">
 </p>
