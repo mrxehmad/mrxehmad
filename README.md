@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on [YT-Shorts-Bot](https://github.com/mrxehmad/Youtube-shorts-bot)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me for commissioned programs or collab:
 : [Telegram](https://t.me/s_t0k)
